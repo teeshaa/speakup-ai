@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+assemblyai
+outetts
+pyaudio 
+sounddevice
+gtts
+google-generativeai    
+pandas    
+langchain
+python-dotenv
